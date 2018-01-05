@@ -1,0 +1,79 @@
+/*MAIN-BG.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Author: Kiddiepunk*/
+/* Website: http://www.kiddiepunk.com */
+/* Copyright: (C) 2014 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------*/
+/* INTRO / HOME VARIANTS */
+/*--------------------------------------------------------------*/
+
+.intro02 .large-header {
+	background-image: url('../images/house1.gif');
+}
+
+
+
+/*--------------------------------------------------------------*/
+/* PAGES AND SECTIONS */
+/*--------------------------------------------------------------*/
+.news-post-bg{
+	background-image: url('../images/snow2.gif');
+}
+.contents-bg{
+	background-image: url('../images/jumbos_8-23-2016.gif');
+}
+.gss1-bg{
+	background-image: url('../images/gss1.jpg');
+}
+.gss2-bg{
+	background-image: url('../images/gss2.jpg');
+}
+.cafe-bg{
+	background-image: url('../images/cafe.gif');
+}
+.cafe-2-bg{
+	background-image: url('../images/cafe_2.gif');
+}
+.subway-with-girl-bg{
+	background-image: url('../images/subway_with_girl.gif');
+}
+.subway-2-bg{
+	background-image: url('../images/subway_2.gif');
+}
+.subway-bg{
+	background-image: url('../images/subway.gif');
+}
+.smoking-bg{
+	background-image: url('../images/smoking.gif');
+}
+.pink-cityscape-bg{
+	background-image: url('../images/pink_cityscape.gif');
+}
+.preface-bg{
+	background-image: url('../images/rain.gif');
+}
+.chapter1-bg{
+	background-image: url('../images/1-15.gif');
+}
+.chapter2-bg{
+	background-image: url('../images/2-61.gif');
+}
+.chapter3-bg{
+	background-image: url('../images/3-29.gif');
+}
+.chapter4-bg{
+	background-image: url('../images/4-37.gif');
+}
+.chapter5-bg{
+	background-image: url('../images/5-19.gif');
+}
+.afterword-bg{
+	background-image: url('../images/snow3.gif');
+}
+.credits-bg{
+	background-image: url('../images/5-1.gif');
+}
+
